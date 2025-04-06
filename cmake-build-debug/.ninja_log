@@ -1,0 +1,27 @@
+# ninja log v5
+16	1344	1680309240450359948	CMakeFiles/BloodSugarProgram.dir/number_ave.cpp.o	c4fe992e986a870b
+16	1305	1680309240407971240	CMakeFiles/BloodSugarProgram.dir/range_ave.cpp.o	7e689f32353ea4c
+4	496	1680309285705699681	CMakeFiles/BloodSugarProgram.dir/Date.cpp.o	6880957e9c63b19c
+15	1278	1680309240381075140	CMakeFiles/BloodSugarProgram.dir/Entry.cpp.o	5ec8e9666a0f0021
+15	1481	1680309240588512282	CMakeFiles/BloodSugarProgram.dir/read_file.cpp.o	b4e985740bde66c8
+2	592	1680309309565741835	CMakeFiles/BloodSugarProgram.dir/input_validation.cpp.o	eaf56277761f1c67
+14	1453	1680309240559079698	CMakeFiles/BloodSugarProgram.dir/main.cpp.o	53abce494fb207e2
+592	662	1680309309642982630	BloodSugarProgram	b4c3804bff0a67b3
+0	157	1680065674035281773	build.ninja	30e20792f1962736
+3	812	1680309470234831699	CMakeFiles/BloodSugarProgram.dir/range_ave.cpp.o	7e689f32353ea4c
+813	885	1680309470311612462	BloodSugarProgram	b4c3804bff0a67b3
+3	510	1680309494613585563	CMakeFiles/BloodSugarProgram.dir/range_ave.cpp.o	7e689f32353ea4c
+3	592	1680309494695709788	CMakeFiles/BloodSugarProgram.dir/main.cpp.o	53abce494fb207e2
+592	645	1680309494751086078	BloodSugarProgram	b4c3804bff0a67b3
+3	1003	1680311861902406989	CMakeFiles/BloodSugarProgram.dir/main.cpp.o	53abce494fb207e2
+1003	1077	1680311861980629949	BloodSugarProgram	b4c3804bff0a67b3
+3	1863	1680312042322105363	CMakeFiles/BloodSugarProgram.dir/input_validation.cpp.o	eaf56277761f1c67
+1863	2012	1680312042476375100	BloodSugarProgram	b4c3804bff0a67b3
+3	940	1680312097094769619	CMakeFiles/BloodSugarProgram.dir/main.cpp.o	53abce494fb207e2
+940	1010	1680312097168274600	BloodSugarProgram	b4c3804bff0a67b3
+14	945	1680312356936922681	CMakeFiles/BloodSugarProgram.dir/main.cpp.o	53abce494fb207e2
+945	1017	1680312357012158525	BloodSugarProgram	b4c3804bff0a67b3
+2	565	1680312390270155010	CMakeFiles/BloodSugarProgram.dir/main.cpp.o	53abce494fb207e2
+565	615	1680312390323150041	BloodSugarProgram	b4c3804bff0a67b3
+3	926	1680312472629816845	CMakeFiles/BloodSugarProgram.dir/main.cpp.o	53abce494fb207e2
+926	997	1680312472704412958	BloodSugarProgram	b4c3804bff0a67b3
